@@ -36,5 +36,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Animated neon text effect for 'Best game of all time' on the main menu\", \"checked\": true}, {\"feature\": \"User customisable text color for the main menu copy\", \"checked\": false}, {\"feature\": \"Digital clock countdown to the game's special events on the main menu\", \"checked\": true}, {\"feature\": \"Interactive main menu background with cyberpunk city animation\", \"checked\": true}, {\"feature\": \"Dynamic sound effects when navigating the main menu\", \"checked\": true}, {\"feature\": \"Main menu tips section showing random gameplay tips\", \"checked\": false}], \"input_token_count\": 289, \"output_token_count\": 125, \"time_taken\": \"0:00:04.391668\"}",
         "timestamp": "28082024095043",
         "message_id": "guest28082024095037"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the 'best game of all time' copy to be prominently displayed at the top or bottom of the main menu screen?\", \"option1\": \"Display it at the top of the main menu screen.\", \"option2\": \"Display it at the bottom of the main menu screen.\"}, {\"question 2\": \"Do you want the copy to have any specific visual effects or animations to draw attention to it?\", \"option1\": \"Yes, add visual effects or animations.\", \"option2\": \"No, keep it static without any effects.\"}], \"input_token_count\": 334, \"output_token_count\": 125, \"time_taken\": \"0:00:04.358451\"}",
+        "timestamp": "28082024095043",
+        "message_id": "guest28082024095037"
     }
 ]
