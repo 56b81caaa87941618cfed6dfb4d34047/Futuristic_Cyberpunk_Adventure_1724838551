@@ -6,5 +6,11 @@
         "timestamp": "1724838553",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll add \"Best game of all time\" to the copy.",
+        "timestamp": "28082024095018",
+        "message_id": "guest28082024095017"
     }
 ]
