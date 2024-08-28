@@ -14,7 +14,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           <a id="logo-link" class="inline-flex" href="index.html" aria-label="Cruip">
             <img id="logo-image" class="max-w-none" src="./images/logo.svg" width="38" height="38" alt="Stellar">
           </a>
-          <p class="ml-2 text-sm font-medium text-slate-300">Best game from all time</p>
+          <p class="ml-2 text-sm font-medium text-slate-300 animate-pulse">Best game from all time</p>
         </div>
         </div>
 
