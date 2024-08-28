@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nadd here a cipy sying \"best game from all time\""
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nAI: Sure, I'll add \"Best game of all time\" to the copy.\nUser: add here a cipy sying \"best game from all time\"\n\nThis is the user's current request of changes to be made:\nWhere specifically would you like the copy saying 'best game of all time' to appear in the game? On the main menu screen"
     }
 ]
