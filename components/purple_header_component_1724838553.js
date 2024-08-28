@@ -21,47 +21,47 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           <ul id="desktop-menu-links" class="flex grow justify-center flex-wrap items-center">
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_1-link"
+                id="Home-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_1.html"
+                href="Home.html"
               >
-                HEADER_NAVBAR_TEXT_1
+                Home
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_2-link"
+                id="Characters-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_2.html"
+                href="Characters.html"
               >
-                HEADER_NAVBAR_TEXT_2
+                Characters
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_3-link"
+                id="Augmentations-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_3.html"
+                href="Augmentations.html"
               >
-                HEADER_NAVBAR_TEXT_3
+                Augmentations
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_4-link"
+                id="Missions-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_4.html"
+                href="Missions.html"
               >
-                HEADER_NAVBAR_TEXT_4
+                Missions
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_5-link"
+                id="Netrunner-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_5.html"
+                href="Netrunner.html"
               >
-                HEADER_NAVBAR_TEXT_5
+                Netrunner
               </a>
             </li>
           </ul>
@@ -118,19 +118,19 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           >
             <ul id="mobile-nav-list" class="border border-transparent rounded-lg px-4 py-1.5 [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]">
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_1-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_1.html">HEADER_NAVBAR_TEXT_1</a>
+                <a id="mobile-Home-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Home.html">Home</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_2-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_2.html">HEADER_NAVBAR_TEXT_2</a>
+                <a id="mobile-Characters-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Characters.html">Characters</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_3-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_3.html">HEADER_NAVBAR_TEXT_3</a>
+                <a id="mobile-Augmentations-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Augmentations.html">Augmentations</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_4-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_4.html">HEADER_NAVBAR_TEXT_4</a>
+                <a id="mobile-Missions-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Missions.html">Missions</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_5-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_5.html">HEADER_NAVBAR_TEXT_5</a>
+                <a id="mobile-Netrunner-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Netrunner.html">Netrunner</a>
               </li>
             </ul>
           </nav>
