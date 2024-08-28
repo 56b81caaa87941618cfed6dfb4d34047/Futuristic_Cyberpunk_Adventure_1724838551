@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Do you want the copy to have any specific visual effects or animations to draw attention to it? Yes, add visual effects or animations.",
+        "message_id": "guest28082024095103",
+        "timestamp": "28082024095104",
+        "component_file_name": "purple_header_component_1724838553",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the 'best game of all time' copy to be prominently displayed at the top or bottom of the main menu screen?\", \"option1\": \"Display it at the top of the main menu screen.\", \"option2\": \"Display it at the bottom of the main menu screen.\"}, {\"question 2\": \"Do you want the copy to have any specific visual effects or animations to draw attention to it?\", \"option1\": \"Yes, add visual effects or animations.\", \"option2\": \"No, keep it static without any effects.\"}], \"input_token_count\": 334, \"output_token_count\": 125, \"time_taken\": \"0:00:04.358451\"}",
         "message_id": "guest28082024095037",
