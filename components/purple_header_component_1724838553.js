@@ -6,16 +6,15 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
 -->
 
 <template>
-  <header class="w-full z-30" id="header-section-container">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
+  <header class="w-full z-30 bg-gradient-to-r from-pink-500 to-purple-600 bg-opacity-50 backdrop-filter backdrop-blur-lg shadow-lg" id="header-section-container">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <div class="flex items-center justify-between h-16 md:h-20">
         <!-- Site Branding -->
         <div id="site-branding" class="flex-1">
           <a id="logo-link" class="inline-flex" href="index.html" aria-label="Cruip">
             <img id="logo-image" class="max-w-none" src="./images/logo.svg" width="38" height="38" alt="Stellar">
           </a>
-          <p class="ml-2 text-sm font-medium text-slate-300 animate-pulse">Best game from all time</p>
-        </div>
+          <p class="ml-2 text-sm font-medium text-white animate-pulse">Best game from all time</p>
         </div>
 
         <!-- Desktop Navigation -->
@@ -24,7 +23,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             <li>
               <a
                 id="Home-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="Home.html"
               >
                 Home
@@ -33,7 +32,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             <li>
               <a
                 id="Characters-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="Characters.html"
               >
                 Characters
@@ -42,7 +41,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             <li>
               <a
                 id="Augmentations-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="Augmentations.html"
               >
                 Augmentations
@@ -51,7 +50,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             <li>
               <a
                 id="Missions-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="Missions.html"
               >
                 Missions
@@ -60,7 +59,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             <li>
               <a
                 id="Netrunner-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="Netrunner.html"
               >
                 Netrunner
@@ -74,7 +73,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           <li>
             <a
               id="sign-in-link"
-              class="font-medium text-sm whitespace-nowrap transition duration-150 ease-in-out text-slate-300 hover:text-white"
+              class="font-medium text-sm whitespace-nowrap transition duration-150 ease-in-out text-white hover:text-pink-200"
               href="signin.html"
             >
               Sign in
@@ -83,10 +82,10 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           <li class="ml-6">
             <a
               id="sign-up-link"
-              class="btn-sm transition duration-150 ease-in-out w-full group relative before:absolute before:inset-0 before:bg-slate-800/30 before:rounded-full before:pointer-events-none text-slate-300 hover:text-white [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]"
+              class="btn-sm transition duration-150 ease-in-out w-full group relative before:absolute before:inset-0 before:bg-purple-800 before:bg-opacity-50 before:rounded-full before:pointer-events-none text-white hover:text-pink-200 bg-gradient-to-r from-pink-500 to-purple-600 rounded-full px-4 py-2"
               href="signup.html"
             >
-              <span class="relative inline-flex items-center"> Sign up <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span> </span>
+              <span class="relative inline-flex items-center"> Sign up <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-pink-200">-&gt;</span> </span>
             </a>
           </li>
         </ul>
@@ -102,7 +101,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             :aria-expanded="expanded"
           >
             <span class="sr-only">Menu</span>
-            <svg id="hamburger-icon" class="w-5 h-5 fill-current transition duration-150 ease-in-out text-slate-300 hover:text-white" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+            <svg id="hamburger-icon" class="w-5 h-5 fill-current transition duration-150 ease-in-out text-white hover:text-pink-200" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
               <rect y="2" width="20" height="2" rx="1" />
               <rect y="9" width="20" height="2" rx="1" />
               <rect y="16" width="20" height="2" rx="1" />
@@ -118,21 +117,21 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             @keydown.escape.window="expanded = false"
             x-cloak
           >
-            <ul id="mobile-nav-list" class="border border-transparent rounded-lg px-4 py-1.5 [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]">
+            <ul id="mobile-nav-list" class="border border-transparent rounded-lg px-4 py-1.5 bg-gradient-to-r from-pink-500 to-purple-600 bg-opacity-50 backdrop-filter backdrop-blur-lg shadow-lg">
               <li>
-                <a id="mobile-Home-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Home.html">Home</a>
+                <a id="mobile-Home-link" class="flex font-medium text-sm py-1.5 text-white hover:text-pink-200" href="Home.html">Home</a>
               </li>
               <li>
-                <a id="mobile-Characters-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Characters.html">Characters</a>
+                <a id="mobile-Characters-link" class="flex font-medium text-sm py-1.5 text-white hover:text-pink-200" href="Characters.html">Characters</a>
               </li>
               <li>
-                <a id="mobile-Augmentations-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Augmentations.html">Augmentations</a>
+                <a id="mobile-Augmentations-link" class="flex font-medium text-sm py-1.5 text-white hover:text-pink-200" href="Augmentations.html">Augmentations</a>
               </li>
               <li>
-                <a id="mobile-Missions-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Missions.html">Missions</a>
+                <a id="mobile-Missions-link" class="flex font-medium text-sm py-1.5 text-white hover:text-pink-200" href="Missions.html">Missions</a>
               </li>
               <li>
-                <a id="mobile-Netrunner-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Netrunner.html">Netrunner</a>
+                <a id="mobile-Netrunner-link" class="flex font-medium text-sm py-1.5 text-white hover:text-pink-200" href="Netrunner.html">Netrunner</a>
               </li>
             </ul>
           </nav>
