@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What type of visual effects are you imagining for the 'best game of all time' copy?\", \"option1\": \"Subtle glowing effect that pulsates\", \"option2\": \"Dynamic animation that includes the text zooming in and out periodically\"}, {\"question 2\": \"Do you have a specific color scheme in mind for the visual effects, to match the cyberpunk theme?\", \"option1\": \"Neon colors inspired by the cyberpunk aesthetic\", \"option2\": \"Monochromatic scheme with a futuristic feel\"}], \"input_token_count\": 364, \"output_token_count\": 120, \"time_taken\": \"0:00:04.397495\"}",
+        "message_id": "guest28082024095103",
+        "timestamp": "28082024095109",
+        "component_file_name": "purple_header_component_1724838553",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, I will add visual effects or animations.",
         "message_id": "guest28082024095103",
