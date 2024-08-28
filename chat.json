@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, I will add visual effects or animations.",
+        "message_id": "guest28082024095103",
+        "timestamp": "28082024095104",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Do you want the copy to have any specific visual effects or animations to draw attention to it? Yes, add visual effects or animations.",
         "message_id": "guest28082024095103",
