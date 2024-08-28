@@ -48,5 +48,11 @@
         "content": "Do you want the copy to have any specific visual effects or animations to draw attention to it? Yes, add visual effects or animations.",
         "timestamp": "28082024095104",
         "message_id": "guest28082024095103"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, I will add visual effects or animations.",
+        "timestamp": "28082024095104",
+        "message_id": "guest28082024095103"
     }
 ]
