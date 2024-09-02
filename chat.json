@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What type of image are you envisioning to accompany the copy, something thematic to the cyberpunk aesthetic or a more abstract design?\", \"option1\": \"Thematic to the cyberpunk aesthetic\", \"option2\": \"More abstract design\"}, {\"question 2\": \"How would you like the image to be displayed \\u2013 as a full background image, in-line with the text, or as a separate section?\", \"option1\": \"Full background image\", \"option2\": \"In-line with the text\"}], \"input_token_count\": 578, \"output_token_count\": 116, \"time_taken\": \"0:00:01.392937\"}",
+        "message_id": "guest02092024081643",
+        "timestamp": "02092024081646",
+        "component_file_name": "dark_header_component_1725264291",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add an awesome imgae here",
         "message_id": "guest02092024081643",
