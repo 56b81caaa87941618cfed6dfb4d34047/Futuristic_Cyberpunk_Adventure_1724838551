@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific colors or themes do you have in mind for making this component more colorful?\", \"option1\": \"Bright neon colors\", \"option2\": \"Pastel color palette\"}, {\"question 2\": \"Do you want to add any additional effects like animations or gradients to enhance the colorful appearance?\", \"option1\": \"Yes, include animations\", \"option2\": \"No, keep it simple without animations\"}], \"input_token_count\": 508, \"output_token_count\": 98, \"time_taken\": \"0:00:01.027734\"}",
+        "message_id": "guest02092024080919",
+        "timestamp": "02092024080923",
+        "component_file_name": "purple_hero_component_1724838553",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "make this component to be more colorful",
         "message_id": "guest02092024080919",
