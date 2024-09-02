@@ -1,3 +1,9 @@
+<!--
+INSTRUCTION: Summary: The hero component contains the following two parts:
+INSTRUCTION: - To the left: There is a hero title text in h1 heading. Underneath it, a hero subtitle line of text. All this text is left-aligned. Underneath this, there are two white buttons in the same line, both justified in alignment.
+INSTRUCTION: - To the right: There is an image relevant to the app.
+-->
+
 <template>
     <section id="hero-section" class="bg-white dark:bg-gray-900 flex-1">
         <div id="hero-container" class="grid max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
@@ -20,7 +26,7 @@
             </div>
             <!-- Right section containing image -->
             <div id="hero-image-container" class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-                <img id="hero-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Futuristic_Cyberpunk_Adventure_1724838551/main/images/45e05ae0311e4b8c89af9fda4066c2db.jpeg" alt="hero image">
+                <img id="hero-image" src="./images/hero.png" alt="hero image">
             </div>
         </div>
     </section>
