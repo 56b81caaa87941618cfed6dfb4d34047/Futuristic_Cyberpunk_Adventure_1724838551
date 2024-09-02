@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific message or tagline do you want for the new 'awesome' copy?\", \"option1\": \"A creative slogan that captures the game's essence\", \"option2\": \"A simple, bold statement about the game\"}, {\"question 2\": \"Do you want any specific visual style or font for this 'awesome' copy?\", \"option1\": \"A futuristic font that matches the cyberpunk theme\", \"option2\": \"A bold, eye-catching font that stands out\"}], \"input_token_count\": 442, \"output_token_count\": 110, \"time_taken\": \"0:00:01.265082\"}",
+        "message_id": "guest02092024080505",
+        "timestamp": "02092024080508",
+        "component_file_name": "dark_header_component_1725264291",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll create an awesome copy for you.",
         "message_id": "guest02092024080505",
