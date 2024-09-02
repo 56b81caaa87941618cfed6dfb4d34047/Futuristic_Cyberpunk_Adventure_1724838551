@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific shade of reddish do you prefer for the component?\", \"option1\": \"Bright red\", \"option2\": \"Dark red\"}, {\"question 2\": \"Would you like any additional design elements, like gradients or animations, to enhance the reddish look?\", \"option1\": \"Yes, include gradients\", \"option2\": \"No, keep it simple\"}], \"input_token_count\": 602, \"output_token_count\": 88, \"time_taken\": \"0:00:01.263627\"}",
+        "message_id": "guest02092024081549",
+        "timestamp": "02092024081553",
+        "component_file_name": "purple_background_cta_component_1724838553",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll work on making the component look reddish and appealing.",
         "message_id": "guest02092024081549",
