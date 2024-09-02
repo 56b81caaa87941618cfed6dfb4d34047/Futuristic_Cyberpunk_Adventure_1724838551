@@ -13,6 +13,7 @@ INSTRUCTION: On the left it has a text serving as branding for the page. On the 
                     <a class="flex items-center space-x-4" href="index.html" aria-label="Cruip">
                         <img id="site-logo" class="rounded-full" src="./images/logo.jpg" width="32" height="32" alt="Mary Rutt">
                         <span id="site-name" class="text-slate-200">Neon Deckard</span>
+                        <span id="awesome-copy" class="ml-4 text-lg font-bold text-blue-500 animate-pulse">Best Game of All Time!</span>
                     </a>
                 </div>
                 <!-- Right side -->
@@ -71,4 +72,11 @@ export default {
 </script>
 
 <style scoped>
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+.animate-pulse {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
 </style>
