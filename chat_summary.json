@@ -72,15 +72,6 @@
         "div_action": ""
     },
     {
-        "role": "user",
-        "content": "add here a cipy sying \"best game from all time\"",
-        "message_id": "guest28082024095017",
-        "timestamp": "28082024095017",
-        "component_file_name": "purple_header_component_1724838553",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll add \"Best game of all time\" to the copy.",
         "message_id": "guest28082024095017",
@@ -90,9 +81,18 @@
         "div_action": ""
     },
     {
+        "role": "user",
+        "content": "add here a cipy sying \"best game from all time\"",
+        "message_id": "guest28082024095017",
+        "timestamp": "28082024095017",
+        "component_file_name": "purple_header_component_1724838553",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "28082024095110",
-        "message_id": "guest28082024095103"
+        "content": "In the conversation, the user requested the AI to change a component to blue, to which the AI acknowledged and confirmed it was currently making the change. Additionally, the AI asked the user to describe the project in more detail. It's important to note that the AI's training data goes up to October 2023.",
+        "timestamp": "02092024080432",
+        "message_id": "guest02092024080431"
     }
 ]
