@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll work on making the component look reddish and appealing.",
+        "message_id": "guest02092024081549",
+        "timestamp": "02092024081550",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "make this component look redish but great",
         "message_id": "guest02092024081549",
