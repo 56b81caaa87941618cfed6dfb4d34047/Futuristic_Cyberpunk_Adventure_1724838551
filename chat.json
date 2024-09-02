@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'll work on adding a nice image for you.",
+        "message_id": "guest02092024082558",
+        "timestamp": "02092024082559",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a nice image",
         "message_id": "guest02092024082558",
