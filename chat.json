@@ -72,20 +72,20 @@
         "div_action": ""
     },
     {
-        "role": "user",
-        "content": "add here a cipy sying \"best game from all time\"",
-        "message_id": "guest28082024095017",
-        "timestamp": "28082024095017",
-        "component_file_name": "purple_header_component_1724838553",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll add \"Best game of all time\" to the copy.",
         "message_id": "guest28082024095017",
         "timestamp": "28082024095018",
         "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add here a cipy sying \"best game from all time\"",
+        "message_id": "guest28082024095017",
+        "timestamp": "28082024095017",
+        "component_file_name": "purple_header_component_1724838553",
         "div_id": "",
         "div_action": ""
     },
@@ -96,5 +96,14 @@
         "timestamp": "1724838553",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "make this component blue",
+        "message_id": "guest02092024080431",
+        "timestamp": "02092024080431",
+        "component_file_name": "purple_hero_component_1724838553",
+        "div_id": "",
+        "div_action": ""
     }
 ]
