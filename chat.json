@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a prominent title text at the top of the main menu\", \"checked\": true}, {\"feature\": \"Add a glowing neon effect to the title\", \"checked\": false}, {\"feature\": \"Include a subtitle under the title for additional context\", \"checked\": false}, {\"feature\": \"Implement dynamic color changes for the title to match the background\", \"checked\": false}, {\"feature\": \"Animate the title with a pulsing effect when the menu is opened\", \"checked\": true}], \"input_token_count\": 589, \"output_token_count\": 114, \"time_taken\": \"0:00:01.686261\"}",
+        "message_id": "guest02092024082036",
+        "timestamp": "02092024082045",
+        "component_file_name": "particle_component_1724838553",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"ERROR on qna[{\\\"question 1\\\" : \\\"What style or theme do you want the title to reflect in your game?\\\", \\\"option1\\\" : \\\"Futuristic and sleek design\\\", \\\"option2\\\" : \\\"Bold and gritty street art style\\\"},\\n{\\\"question 2\\\" : \\\"Where do you want the title to be positioned within the game interface?\\\", \\\"option1\\\" : \\\"At the top center of the screen\\\", \\\"option2\\\" : \\\"In the bottom left corner\\\"}}\", \"time_taken\": \"0:00:01.012662\"}",
         "message_id": "guest02092024082036",
