@@ -10,10 +10,10 @@ INSTRUCTION: - To the right: There is an image relevant to the app.
             <!-- Left section containing title and buttons -->
             <div id="hero-text-container" class="mr-auto place-self-center lg:col-span-7">
                 <div id="hero-title-container-text" class="flex">
-                    <h1 id="hero-title" class="flex-1 max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">Enter the Neon-Drenched Dystopia</h1>
+                    <h1 id="hero-title" class="flex-1 max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600 animate-pulse">Ultimate Cyberpunk Adventure: Best Game of All Time</h1>
                 </div>
                 <div id="hero-subtitle-container" class="flex">
-                    <p id="hero-subtitle" class="flex-1 max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Hack, Fight, and Survive in a Corporate-Controlled Future</p>
+                    <p id="hero-subtitle" class="flex-1 max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400 animate-fade-in-down">Experience the Future's Most Thrilling Digital Odyssey</p>
                 </div>
                 <div id="hero-buttons-container" class="space-y-4 sm:flex sm:space-y-0 sm:space-x-4">
                     <div id="hero-button-1-container" class="flex">
@@ -40,6 +40,15 @@ export default {
             expanded: false,
             tab: null
         };
+    },
+    mounted() {
+        this.animateTitle();
+    },
+    methods: {
+        animateTitle() {
+            const title = document.getElementById('hero-title');
+            title.classList.add('animate-neon-glow');
+        }
     }
 };
 </script>
