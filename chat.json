@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific shade or color of neon glow would you like for the title 'Ultimate Cyberpunk Adventure'?\", \"option1\": \"Electric blue\", \"option2\": \"Vibrant pink\"}, {\"question 2\": \"Would you prefer the neon glow effect to be static or animated with a pulsing effect?\", \"option1\": \"Animated pulsing effect\", \"option2\": \"Static glow\"}], \"input_token_count\": 669, \"output_token_count\": 95, \"time_taken\": \"0:00:01.094240\"}",
+        "message_id": "guest02092024082434",
+        "timestamp": "02092024082437",
+        "component_file_name": "simple_hero_component_1725265409",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change title to 'Ultimate Cyberpunk Adventure', Add neon glow effect to title",
         "message_id": "guest02092024082434",
