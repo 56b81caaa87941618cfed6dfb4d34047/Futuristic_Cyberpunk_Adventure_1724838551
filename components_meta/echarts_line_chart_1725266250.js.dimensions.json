@@ -1,0 +1,18 @@
+{
+    "id": "echarts_line_chart-6271a380-e83c-e4f4-0f7a-0f8cd170bf5e",
+    "name": "echarts_line_chart",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": 7,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
