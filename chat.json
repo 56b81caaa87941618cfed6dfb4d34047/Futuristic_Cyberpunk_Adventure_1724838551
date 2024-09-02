@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What theme or message do you want the new title to convey?\", \"option1\": \"A sense of adventure and excitement\", \"option2\": \"A dark and mysterious atmosphere\"}, {\"question 2\": \"Are there any specific keywords or phrases you would like to include in the new title?\", \"option1\": \"Yes, I have specific words in mind\", \"option2\": \"No, I am open to creative suggestions\"}], \"input_token_count\": 653, \"output_token_count\": 101, \"time_taken\": \"0:00:01.716542\"}",
+        "message_id": "guest02092024082424",
+        "timestamp": "02092024082428",
+        "component_file_name": "simple_hero_component_1725265409",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the title to something better",
         "message_id": "guest02092024082424",
