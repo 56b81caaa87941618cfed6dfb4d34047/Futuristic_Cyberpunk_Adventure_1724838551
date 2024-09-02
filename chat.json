@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm currently changing that component to blue.",
+        "message_id": "guest02092024080431",
+        "timestamp": "02092024080432",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "make this component blue",
         "message_id": "guest02092024080431",
