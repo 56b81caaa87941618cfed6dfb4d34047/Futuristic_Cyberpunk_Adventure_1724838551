@@ -3,10 +3,10 @@
         <div class="relative z-10 max-w-screen-xl mx-auto px-4 md:px-8">
             <div class="max-w-xl sm:text-center md:mx-auto flex items-center flex-col">
                 <h3 class="text-center text-3xl text-white font-semibold sm:text-4xl">
-                    TESTIMONIAL_SECTION_TITLE_PLACEHOLDER_TEXT
+                    Voices from the Neon Streets
                 </h3>
                 <p class="mt-3 text-center text-white">
-                    TESTIMONIAL_SECTION_SUBTITLE_PLACEHOLDER_TEXT
+                    Hear what the denizens of our dystopian world have to say
                 </p>
             </div>
             <div class="mt-12">
@@ -19,7 +19,7 @@
                         <figure>
                             <blockquote>
                                 <p class="text-gray-800 text-lg font-semibold px-4 py-1">
-                                    TESTIMONIAL_1_PLACEHOLDER_TEXT
+                                    This game is a mind-blowing dive into a gritty, neon-soaked future. The attention to detail in the cybernetic upgrades and corporate conspiracies had me hooked from the start!
                                 </p>
                             </blockquote>
                             <div class="flex items-center gap-x-4 p-4 mt-6 bg-indigo-50">
@@ -27,10 +27,10 @@
                                      class="w-16 h-16 rounded-full border-2 border-indigo-500" />
                                 <div>
                                     <span class="block text-gray-800 font-semibold">
-                                        TESTIMONIAL_GIVER_1_PLACEHOLDER_TEXT
+                                        X-Ray
                                     </span>
                                     <span class="max-w-full block text-indigo-600 text-xs mt-0.5">
-                                        TESTIMONIAL_GIVER_1_DESCRIPTION_PLACEHOLDER_TEXT
+                                        Rogue Netrunner
                                     </span>
                                 </div>
                             </div>
@@ -44,7 +44,7 @@
                         <figure>
                             <blockquote>
                                 <p class="text-gray-800 text-lg font-semibold px-4 py-1">
-                                    TESTIMONIAL_2_PLACEHOLDER_TEXT
+                                    The immersive cityscape and intricate storylines make this cyberpunk world feel alive. I've never felt so connected to a digital reality. It's dangerously addictive!
                                 </p>
                             </blockquote>
                             <div class="flex items-center gap-x-4 p-4 mt-6 bg-indigo-50">
@@ -52,10 +52,10 @@
                                      class="w-16 h-16 rounded-full border-2 border-indigo-500" />
                                 <div>
                                     <span class="block text-gray-800 font-semibold">
-                                        TESTIMONIAL_GIVER_2_PLACEHOLDER_TEXT
+                                        Neon Blade
                                     </span>
                                     <span class="max-w-full block text-indigo-600 text-xs mt-0.5">
-                                        TESTIMONIAL_GIVER_2_DESCRIPTION_PLACEHOLDER_TEXT
+                                        Augmented Street Samurai
                                     </span>
                                 </div>
                             </div>
@@ -69,7 +69,7 @@
                         <figure>
                             <blockquote>
                                 <p class="text-gray-800 text-lg font-semibold px-4 py-1">
-                                    TESTIMONIAL_3_PLACEHOLDER_TEXT
+                                    From the pulsing synthwave soundtrack to the morally ambiguous choices, this game captures the essence of cyberpunk perfectly. It's a thrilling ride through a high-tech, low-life future.
                                 </p>
                             </blockquote>
                             <div class="flex items-center gap-x-4 p-4 mt-6 bg-indigo-50">
@@ -77,10 +77,10 @@
                                      class="w-16 h-16 rounded-full border-2 border-indigo-500" />
                                 <div>
                                     <span class="block text-gray-800 font-semibold">
-                                        TESTIMONIAL_GIVER_3_PLACEHOLDER_TEXT
+                                        Chrome Witch
                                     </span>
                                     <span class="max-w-full block text-indigo-600 text-xs mt-0.5">
-                                        TESTIMONIAL_GIVER_3_DESCRIPTION_PLACEHOLDER_TEXT
+                                        AI Whisperer
                                     </span>
                                 </div>
                             </div>
