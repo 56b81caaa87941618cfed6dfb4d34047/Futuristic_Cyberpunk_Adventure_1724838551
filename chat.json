@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What font style are you envisioning for the prominent title text?\", \"option1\": \"Futuristic and bold\", \"option2\": \"Smooth and elegant\"}, {\"question 2\": \"What color palette would you like for the pulsing animation to enhance its visibility?\", \"option1\": \"Neon colors that pop\", \"option2\": \"Soft pastel shades for a subtle effect\"}], \"input_token_count\": 650, \"output_token_count\": 93, \"time_taken\": \"0:00:01.150954\"}",
+        "message_id": "guest02092024082218",
+        "timestamp": "02092024082221",
+        "component_file_name": "particle_component_1724838553",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add a prominent title text at the top of the main menu, Animate the title with a pulsing effect when the menu is opened",
         "message_id": "guest02092024082218",
