@@ -14,7 +14,6 @@ INSTRUCTION: On the left it has a text serving as branding for the page. On the 
                         <img id="site-logo" class="rounded-full" src="./images/logo.jpg" width="32" height="32" alt="Mary Rutt">
                         <span id="site-name" class="text-slate-200">Neon Deckard</span>
                         <span id="awesome-copy" class="ml-4 text-lg font-bold text-blue-500 animate-pulse">Best Game of All Time!</span>
-                        <img id="awesome-image" class="ml-4 rounded-lg shadow-lg w-16 h-16 object-cover" src="./images/awesome-game.jpg" alt="Awesome Game Image">
                     </a>
                 </div>
                 <!-- Right side -->
