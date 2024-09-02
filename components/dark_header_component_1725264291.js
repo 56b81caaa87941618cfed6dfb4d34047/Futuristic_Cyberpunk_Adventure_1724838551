@@ -11,7 +11,7 @@ INSTRUCTION: On the left it has a text serving as branding for the page. On the 
                 <div id="site-branding" class="shrink-0 mr-4 lg:fixed">
                     <!-- Logo -->
                     <a class="flex items-center space-x-4" href="index.html" aria-label="Cruip">
-                        <img id="site-logo" class="rounded-full" src="./images/logo.jpg" width="32" height="32" alt="Mary Rutt">
+                        <img id="site-logo" class="rounded-full" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Futuristic_Cyberpunk_Adventure_1724838551/main/images/cfe6e358058648f6a4615e39516cbe9c.jpeg" width="32" height="32" alt="Mary Rutt">
                         <span id="site-name" class="text-slate-200">Neon Deckard</span>
                         <span id="awesome-copy" class="ml-4 text-lg font-bold text-blue-500 animate-pulse">Best Game of All Time!</span>
                         <img id="awesome-image" class="ml-4 rounded-lg shadow-lg w-16 h-16 object-cover" src="./images/awesome-game.jpg" alt="Awesome Game Image">
