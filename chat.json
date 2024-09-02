@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "user",
+        "content": "add an awesome imgae here",
+        "message_id": "guest02092024081643",
+        "timestamp": "02092024081644",
+        "component_file_name": "dark_header_component_1725264291",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Apply a reddish gradient background\", \"checked\": true}, {\"feature\": \"Add vibrant animations to UI elements\", \"checked\": false}, {\"feature\": \"Incorporate glowing neon effects around the edges\", \"checked\": true}, {\"feature\": \"Add customizable red color themes\", \"checked\": false}, {\"feature\": \"Implement dynamic hover effects on buttons\", \"checked\": true}, {\"feature\": \"Include animated character icons with a red hue\", \"checked\": false}], \"input_token_count\": 557, \"output_token_count\": 112, \"time_taken\": \"0:00:01.204466\"}",
         "message_id": "guest02092024081549",
