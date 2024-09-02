@@ -1,0 +1,18 @@
+{
+    "id": "faq_accordion-159bb7de-b262-e207-eb43-ea900b9141cd",
+    "name": "faq_accordion",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": 7,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
