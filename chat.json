@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific colors or themes do you envision for the enhancement of this component?\", \"option1\": \"Vibrant neon colors\", \"option2\": \"Soft pastel shades\"}, {\"question 2\": \"Would you prefer static colorful effects or dynamic animations that change as you interact with the component?\", \"option1\": \"Static colorful effects\", \"option2\": \"Dynamic animations\"}], \"input_token_count\": 564, \"output_token_count\": 90, \"time_taken\": \"0:00:01.474018\"}",
+        "message_id": "guest02092024081220",
+        "timestamp": "02092024081226",
+        "component_file_name": "purple_feature_grid_component_1724838553",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "make this component more colorful",
         "message_id": "guest02092024081220",
