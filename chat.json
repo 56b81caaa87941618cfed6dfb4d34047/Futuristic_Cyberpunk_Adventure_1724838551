@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What artistic style do you want for the character portrait?  Is it more realistic, cartoonish, or pixel-art style?\", \"option1\": \"Realistic\", \"option2\": \"Pixel-art style\"}, {\"question 2\": \"What color scheme should the character portrait follow to fit the cyberpunk theme? Do you prefer vibrant neon colors or darker, moody shades?\", \"option1\": \"Vibrant neon colors\", \"option2\": \"Darker, moody shades\"}], \"input_token_count\": 656, \"output_token_count\": 113, \"time_taken\": \"0:00:01.000245\"}",
+        "message_id": "guest02092024081832",
+        "timestamp": "02092024081839",
+        "component_file_name": "dark_header_component_1725264291",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "What type of image are you envisioning for your game? Is it a character, landscape, or something else? A character portrait",
         "message_id": "guest02092024081832",
