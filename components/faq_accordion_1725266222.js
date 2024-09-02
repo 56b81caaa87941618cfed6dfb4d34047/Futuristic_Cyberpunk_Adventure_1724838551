@@ -2,8 +2,8 @@
   <div>
     <section class="leading-relaxed max-w-screen-xl mt-12 mx-auto px-4 md:px-8 bg-white">
       <div class="space-y-3 text-center">
-        <h1 class="text-4xl text-gray-800 font-semibold pt-10">FAQ_TITLE_PLACEHOLDER_TEXT</h1>
-        <p class="text-gray-600 max-w-lg mx-auto text-lg">FAQ_SUBTITLE_PLACEHOLDER_TEXT</p>
+        <h1 class="text-4xl text-gray-800 font-semibold pt-10">Neon Queries</h1>
+        <p class="text-gray-600 max-w-lg mx-auto text-lg">Unlock the secrets of the cyberpunk underground</p>
       </div>
       <div class="mt-14 max-w-2xl mx-auto">
         <div v-for="(item, index) in faqs" :key="index" class="space-y-5 mt-5 overflow-hidden border-b border-gray-200 hover:bg-gray-50 cursor-pointer" @click="toggleFaq(index)">
@@ -36,11 +36,11 @@ export default {
     return {
       selectedFaq: null,
       faqs: [
-        { q: "FAQ_PLACEHOLDER_QUESTION_TEXT_1", a: "FAQ_PLACEHOLDER_ANSWER_TEXT_1" },
-        { q: "FAQ_PLACEHOLDER_QUESTION_TEXT_2", a: "FAQ_PLACEHOLDER_ANSWER_TEXT_2" },
-        { q: "FAQ_PLACEHOLDER_QUESTION_TEXT_3", a: "FAQ_PLACEHOLDER_ANSWER_TEXT_3" },
-        { q: "FAQ_PLACEHOLDER_QUESTION_TEXT_4", a: "FAQ_PLACEHOLDER_ANSWER_TEXT_4" },
-        { q: "FAQ_PLACEHOLDER_QUESTION_TEXT_5", a: "FAQ_PLACEHOLDER_ANSWER_TEXT_5" }
+        { q: "What's the recommended hardware for optimal gameplay?", a: "For the full immersive experience, we recommend a high-end GPU, at least 16GB RAM, and a neural-link compatible VR headset. But don't worry, street samurai - the game is optimized to run on most rigs from the last 5 years." },
+        { q: "Can I customize my character's cybernetic enhancements?", a: "Absolutely! Our state-of-the-art character customization allows you to trick out your avatar with the latest in black market cyberware. From ocular implants to dermal armor, the choice is yours. Just remember, every enhancement comes with a price..." },
+        { q: "Is there a multiplayer mode?", a: "You bet your last credit chip there is! Team up with other runners for high-stakes heists, or go head-to-head in our neon-drenched PvP arenas. The streets are waiting, and they're hungry for action." },
+        { q: "How often will new content be released?", a: "We're jacked in and constantly uploading. Expect monthly patches with bug fixes and balance tweaks, and major content drops every quarter. New missions, gear, and even entire districts of the city are in the pipeline. Stay frosty, choombas." },
+        { q: "Is there an in-game economy or trading system?", a: "Welcome to the black market, samurai. Our robust in-game economy lets you wheel and deal in everything from black ICE to military-grade chrome. Trade with NPCs or other players, but watch your back - in Night City, a deal can turn deadly in a heartbeat." }
       ]
     }
   },
