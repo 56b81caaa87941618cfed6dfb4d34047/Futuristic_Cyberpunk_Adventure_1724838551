@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nAI: Sure, I'll add \"Best game of all time\" to the copy.\nUser: add here a cipy sying \"best game from all time\"\nUser: Where specifically would you like the copy saying 'best game of all time' to appear in the game? On the main menu screen\n\nThis is the user's current request of changes to be made:\nDo you want the copy to have any specific visual effects or animations to draw attention to it? Yes, add visual effects or animations."
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nCan you describe the project a bit more?\nAI: Got it, I will add visual effects or animations.\nUser: Do you want the copy to have any specific visual effects or animations to draw attention to it? Yes, add visual effects or animations.\nUser: Where specifically would you like the copy saying 'best game of all time' to appear in the game? On the main menu screen\nUser: add here a cipy sying \"best game from all time\"\nAI: Sure, I'll add \"Best game of all time\" to the copy.\n\nThis is the user's current request of changes to be made:\nmake this component blue"
     }
 ]
