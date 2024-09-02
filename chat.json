@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What type of image are you envisioning for your game? Is it a character, landscape, or something else?\", \"option1\": \"A character portrait\", \"option2\": \"A futuristic cityscape\"}, {\"question 2\": \"Do you prefer the image to have a specific color scheme or style that aligns with the rest of the game's aesthetics?\", \"option1\": \"Yes, a neon color scheme\", \"option2\": \"No, it can be any style\"}], \"input_token_count\": 671, \"output_token_count\": 110, \"time_taken\": \"0:00:01.163588\"}",
+        "message_id": "guest02092024081752",
+        "timestamp": "02092024081755",
+        "component_file_name": "dark_header_component_1725264291",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add an awesome image here",
         "message_id": "guest02092024081752",
