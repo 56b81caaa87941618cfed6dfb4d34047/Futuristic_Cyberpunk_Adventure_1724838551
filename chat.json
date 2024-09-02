@@ -98,6 +98,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll create an awesome copy for you.",
+        "message_id": "guest02092024080505",
+        "timestamp": "02092024080506",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "ADD A awesome copy",
         "message_id": "guest02092024080505",
