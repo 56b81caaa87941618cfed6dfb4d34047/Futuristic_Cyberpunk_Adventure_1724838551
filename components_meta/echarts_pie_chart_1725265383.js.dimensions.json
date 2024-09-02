@@ -1,0 +1,18 @@
+{
+    "id": "echarts_pie_chart-115ddea1-ce36-87f2-6067-f1a4aa14a316",
+    "name": "echarts_pie_chart",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": 7,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
