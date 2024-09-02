@@ -7,7 +7,7 @@ INSTRUCTION: 3. Hero content: The main content of the landing page, including an
 
 <template>
   <section id="hero-section-container">
-    <div id="section-container" class="relative max-w-6xl mx-auto px-4 sm:px-6 bg-white">
+    <div id="section-container" class="relative max-w-6xl mx-auto px-4 sm:px-6 bg-gradient-to-r from-purple-600 via-pink-500 to-blue-500">
       <div id="hero-content-container" class="pt-32 pb-16 md:pt-52 md:pb-32">
         <!-- Hero content -->
         <div id="hero-content" class="max-w-3xl mx-auto text-center" style="position: relative; z-index: 1">
@@ -24,22 +24,23 @@ INSTRUCTION: 3. Hero content: The main content of the landing page, including an
             </div>
           </div>
           <div class="flex" id="hero-text-container">
-            <h1 id="hero-text" class="h1 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4" data-aos="fade-down">Hack the System, Own the Streets</h1>
+            <h1 id="hero-text" class="h1 bg-clip-text text-transparent bg-gradient-to-r from-yellow-300 via-green-300 to-blue-300 pb-4 animate-pulse" data-aos="fade-down">Hack the System, Own the Streets</h1>
           </div>
           <div class="flex" id="sub-hero-text-container">
-            <p id="sub-hero-text" class="flex-1 text-lg mb-8 text-slate-300" data-aos="fade-down" data-aos-delay="200">Immerse yourself in a neon-drenched metropolis where technology rules and danger lurks around every corner. Customize your cyborg avatar, master futuristic weapons, and navigate a world of corporate intrigue and street-level warfare.</p>
+            <p id="best-game-text" class="text-2xl font-bold text-yellow-300 mb-4 animate-pulse">Best game of all time</p>
+            <p id="sub-hero-text" class="flex-1 text-lg mb-8 text-yellow-200 animate-bounce" data-aos="fade-down" data-aos-delay="200">Immerse yourself in a neon-drenched metropolis where technology rules and danger lurks around every corner. Customize your cyborg avatar, master futuristic weapons, and navigate a world of corporate intrigue and street-level warfare.</p>
           </div>
           <div id="buttons-container" class="flex justify-center space-x-4 mt-8">
             <div id="get-started-button-container">
               <a id="get-started-button" 
-                 class="flex items-center justify-center px-6 py-3 text-white bg-blue-600 rounded-lg shadow-md transition duration-150 ease-in-out hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50" 
+                 class="flex items-center justify-center px-6 py-3 text-white bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50" 
                  href="#0">
                   Get Started 
                   <span id="get-started-arrow" class="ml-2 transform transition-transform duration-150 ease-in-out group-hover:translate-x-0.5">→</span>
               </a>
             </div>
             <div id="docs-button-container">
-              <a id="docs-button" class="flex items-center justify-center px-6 py-3 text-slate-900 bg-white rounded-lg shadow-md transition duration-150 ease-in-out hover:bg-slate-100 focus:outline-none focus:ring-2 focus:ring-slate-500 focus:ring-opacity-50" href="#0">
+              <a id="docs-button" class="flex items-center justify-center px-6 py-3 text-white bg-gradient-to-r from-purple-400 to-pink-500 hover:from-indigo-500 hover:to-purple-500 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:ring-opacity-50" href="#0">
                 <svg id="docs-icon" class="shrink-0 mr-3 text-slate-500" xmlns="http://www.w3.org/2000/svg" width="16" height="16">
                   <path d="m1.999 0 1 2-1 2 2-1 2 1-1-2 1-2-2 1zM11.999 0l1 2-1 2 2-1 2 1-1-2 1-2-2 1zM11.999 10l1 2-1 2 2-1 2 1-1-2 1-2-2 1zM6.292 7.586l2.646-2.647L11.06 7.06 8.413 9.707zM0 13.878l5.586-5.586 2.122 2.121L2.12 16z"/>
                 </svg>
